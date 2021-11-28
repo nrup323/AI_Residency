@@ -10,4 +10,4 @@ This is for me and people like to keep a track of all the programs.
 ### 6) [VinAI AI Residency](https://www.vinai.io/ai-residency) (Deadline : 10th Dec' 2021)
 ### 7) [Salesforce AI Residency](https://www.salesforce.com/company/careers/university-recruiting/ai-residency/) (Deadline : 3rd Jan' 2022)
 ### 8) [Nvidia AI Residency](https://www.nvidia.com/en-us/research/ai-research-residency/) (Currently Closed, check again.)
-### 9) ....
+### 9) [Amazon Research Prgram](https://www.amazon.science/scholars)
